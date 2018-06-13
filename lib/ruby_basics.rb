@@ -26,5 +26,5 @@ end
 
 def pizza_party(toping = "cheese")
   puts toping
-  toping = 
+  phrase = toping 
 end
