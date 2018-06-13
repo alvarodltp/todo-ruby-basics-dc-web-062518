@@ -1,27 +1,29 @@
 def division(num1, num2)
- 
+ quotient = num1 / num2
+ quotient
 end
 
 def assign_variable(value)
-  
+  name = value
+  name
 end
 
-def argue
-  
+def argue(phrase)
+  phrase = "I am right and you are wrong!"
 end
 
-def greeting
+def greeting(gretting, name)
 
 end
 
 def return_a_value
-
+  puts "Nice"
 end
 
 def last_evaluated_value
-
+  puts "expert"
 end
 
-def pizza_party
-
+def pizza_party(name)
+  puts name
 end
