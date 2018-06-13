@@ -24,6 +24,6 @@ def last_evaluated_value
   phrase = "expert"
 end
 
-def pizza_party(name)
-  puts name
+def pizza_party
+  phrase = "cheese"
 end
