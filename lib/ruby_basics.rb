@@ -9,7 +9,7 @@ def assign_variable(value)
 end
 
 def argue(phrase)
-  phrase = "I am right and you are wrong!"
+  phrase = "I'm right and you are wrong!"
 end
 
 def greeting(gretting, name)
